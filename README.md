@@ -1,6 +1,6 @@
 # Active Directory Administration Lab on Microsoft Azure
 
-**Author:** Sophia Agbemashior  
+**Author:** Abednego Agbemashior  
 **Completed:** October 13, 2026  
 **Project type:** Personal hands-on lab with fictional employees and simulated help desk scenarios.
 
